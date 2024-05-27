@@ -25,14 +25,14 @@
     group-hover:from-gray-50 group-hover:to-white group-hover:opacity-70;
 }
 #hero{
-    background-image:url('C:\my folder\update-project\latest-web-site\src\assets\image\AllBg.jpg');
+    background-image:url('assets/image/AllBg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 @media(max-width:576px){
 
     #hero{
-        background-image:url('C:\my folder\update-project\latest-web-site\src\assets\image\bgMobil.jpg');
+        background-image:url('assets/image/AllBg.jpg');
         background-position: center;
 }
 }
